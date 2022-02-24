@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1;
+}
+
+p {
+    font-size: 15px;
+    font-size: 1.5rem;    
+    line-height: 1.333333334;
+    margin-bottom: 20px;
+    margin-bottom: 2rem;
+    text-align: left;
+    font-family:'Lucida Sans';
+}
+
+.three-columns {
+    
+    column-count: 5;
+}
