@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet4.css">
+
+</head>
+
+<body>
+    <h1>2 Imagenes</h1>
+    <h2>Mood</h2>
+
+    <div class="pic1">
+        <img src="https://img1.picmix.com/output/stamp/normal/0/6/1/5/1905160_81caa.png" alt="Pop cat">
+    </div>
+
+    <div class="pic2">
+        <img src="https://c.tenor.com/gK32v_OWs0kAAAAC/omg-cat.gif" alt="Cat crying">
+    </div>
+
+</body>
+
+</html>
