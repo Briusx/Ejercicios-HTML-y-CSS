@@ -20,7 +20,7 @@ p {
     font-family:'Lucida Sans';
 }
 
-.three-columns {
+.columnas {
     
     column-count: 5;
 }
