@@ -11,7 +11,7 @@
 
 <body>
     <h1>Columnas</h1> 
-    <div class="three-columns">
+    <div class="columnas">
         <p>Columna 1</p>
 
         <p>Columna 2</p>
