@@ -1,0 +1,23 @@
+a{
+    font-family: 'Trebuchet MS';
+}
+
+.azul{
+color: blue;
+}
+
+.gris{
+color: gray;
+}
+
+.verde{
+color: green;
+}
+
+.rojo{
+color: red;
+}
+
+.naranja{
+color: orange;
+}
