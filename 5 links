@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Stylesheet1.css">
+
+</head>
+
+<body>
+<h1>5 Links</h1>
+
+    <a href="https://www.youtube.com" class="azul" >Youtube</a>
+    <a href="https://www.twitch.tv" class="gris">Instagram</a>
+    <a href="https://www.crunchyroll.com/es/welcome?utm_source=paid_cr&utm_medium=google-search&utm_campaign=conversion&utm_term=crunchyroll&referrer=paid_cr_google-search_conversion&gclid=Cj0KCQiA09eQBhCxARIsAAYRiylQBvuXyytc9FylkVruQzZKnAV49LCV-bbBwC4mClKOuY8Brg7QJgIaAqFuEALw_wcB" class="verde">Crunchyroll</a>
+    <a href="https://www.deviantart.com" class="rojo">DeviantArt</a>
+    <a href="https://www.wizardingworld.com" class="naranja" >Wizarding World</a>
+</body>
+
+</html>
