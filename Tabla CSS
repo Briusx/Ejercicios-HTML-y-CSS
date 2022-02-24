@@ -1,0 +1,25 @@
+table {
+    table-layout: fixed;
+    width: 100%;
+    padding: 0.5rem 0.5rem;
+    font-family:'Lucida Sans';
+    
+}
+
+table{
+    caption-side: bottom;
+    border-collapse: collapse;
+    
+}
+
+th{
+font-weight: bold;
+
+}
+
+th, td {
+    text-align: left;
+    border-bottom:solid 1px grey;
+    height:50px;
+
+}
