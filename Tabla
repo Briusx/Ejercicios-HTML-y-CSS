@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Stylesheet5.css">
+
+</head>
+
+<body>
+    <h1>Tabla</h1>
+    <table class="table">
+
+        <div class="titles">
+            <thead>
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col">Nombre</th>
+                  <th scope="col">Apellido</th>
+                  <th scope="col">Edad</th>
+                </tr>
+              </thead>
+      
+        </div>
+        
+       
+        <div class="cuerpo">
+            <tbody>
+            
+                <tr>
+                  <th scope="row">1</th>
+                  <td>Brian</td>
+                  <td>Uscanga</td>
+                  <td>21</td>
+                </tr>
+      
+                <tr>
+                  <th scope="row">2</th>
+                  <td>Meryl</td>
+                  <td>Streep</td>
+                  <td>72</td>
+                </tr>
+      
+                <tr>
+                  <th scope="row">3</th>
+                  <td>Taylor</td>
+                  <td>Swift</td>
+                  <td>32</td>
+                </tr>
+        </div>
+    </table>
+
+
+</body>
+
+</html>
